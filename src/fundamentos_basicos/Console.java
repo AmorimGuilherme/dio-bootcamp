@@ -1,12 +1,12 @@
 package fundamentos_basicos;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class Console {
 
 	public static void main(String[] args) {
 
-		System.out.println("Bom");
+		System.out.println("Bom");  
 		System.out.println(" dia!\n\n");
 
 		System.out.println("Bom");
